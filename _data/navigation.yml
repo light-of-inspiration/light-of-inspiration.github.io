@@ -13,10 +13,10 @@ main:
     url: "/#-certification"
 
   - title: "Language"
-    url: "/#-forein language"
+    url: "/#-language"
 
   - title: "Programming"
-    url: "/#-programming skills"
+    url: "/#-programming"
 
   - title: "Publications"
     url: "/#-publications"
