@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lin"
-description              : "Licht"
+title                    : "Zhaozhi LIN"
+description              : "AI MSc student"
 repository               : "light-of-inspiration/light-of-inspiration.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhaozhi LIN"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/headImg.jpg"
   bio              : "UNIVERSITY OF SUSSEX"
   location         : "Hangzhou, China"
   employer         :
