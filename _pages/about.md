@@ -33,7 +33,7 @@ I've gained those skills for primary prepartion:
 > * Legal dogmatics research, in prespective of "technical essence"
 
 
-‼️ Becoming a interdisciplinary researcher for AI & Law has always been my ideal.
+‼️ Becoming a interdisciplinary researcher for AI & Law has always been my ideal.  
 Thus, I extremely hope to be given the chance, to continue my studies, as a Ph.D. student.
 
 Please feel free to __contact me__ at anytime, to discuss about any related possibilities.   
