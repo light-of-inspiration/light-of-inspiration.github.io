@@ -32,7 +32,6 @@ I've gained those skills for primary prepartion:
 > * Foregin language acquisition (English, Japanese, German), for advanced comparative study
 > * Legal dogmatics research, in the prespective of technical essence
 
----
 
 ‼️ Becoming a interdisciplinary researcher for AI & Law has always been my ideal.
 Thus, I extremely hope to be given the chance, to continue my studies, as a Ph.D. student.
@@ -40,9 +39,9 @@ Thus, I extremely hope to be given the chance, to continue my studies, as a Ph.D
 Please feel free to __contact me__ at anytime, to discuss about any related possibilities.   
 I'm __eagerly__ looking forward to discussing with you about all those issues related to AI & Law 😃
 
-📧  <font color=DodgerBlue>__wl355@sussex.ac.uk__</font>
+📧  <font color=DodgerBlue>__wl355@sussex.ac.uk__</font>  
   
-
+  
 Here are some further details about my experience:
   
 
