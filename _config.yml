@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhaozhi LIN"
-  avatar           : "images/headImg.jpg"
+  avatar           : "https://i-blog.csdnimg.cn/direct/96e7449aa058440e84b28667de5c5c77.jpeg" #"images/headImg.jpg"
   bio              : "UNIVERSITY OF SUSSEX"
   location         : "Hangzhou, China"
   employer         :
