@@ -17,32 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am an __AI MSc student__ 👨🏻‍💻 from the University of Sussex, seeking for a chance of __becoming a Ph.D. student__, to make further investigations in __AI & Law__.  
+Hi, I am an __AI MSc student__ 👨🏻‍💻 from University of Sussex, seeking for a chance of __becoming a Ph.D. student__, to make further investigations in __AI & Law__.  
 
-
-For prepartions, I've gained those primary related skills:  
+I've gained those skills for primary prepartion:  
 
 > 💻 __For AI in Law__:
-> * Programming with proficient Python
-> * Legal software development, management
-> * Reading and writing english documents, and articles
+> * Programming with proficient `Python`
+> * Legal software development
+> * Handling english engineering articles
 > * Applying large language models (LLMs) in Legal Question Answering
 >
 > ⚖️ __For Law in AI__:
-> * Skills for legal empirical research, with Machine Learing
-> * Foregin language acquisition (English, Japanese, German), suitable for advanced comparative study
-> * Legal doctrine based research, in the prespective of technological essence
+> * Empirical research skills for law, with Machine Learing
+> * Foregin language acquisition (English, Japanese, German), for advanced comparative study
+> * Legal dogmatics research, in the prespective of technical essence
 
 ---
 
-‼️ __Becoming a interdisciplinary researcher__ for AI & Law has always been my ideal.
-Thus, I extremely hope to be given the chance, to continue my studies as a Ph.D. student.
+‼️ Becoming a interdisciplinary researcher for AI & Law has always been my ideal.
+Thus, I extremely hope to be given the chance, to continue my studies, as a Ph.D. student.
 
-Please feel free to __contact me__ at anytime, to discuss about any related possibilities. 
+Please feel free to __contact me__ at anytime, to discuss about any related possibilities.   
 I'm __eagerly__ looking forward to discussing with you about all those issues related to AI & Law 😃
 
-📧  <font color=DodgerBlue>wl355@sussex.ac.uk</font>
-
+📧  <font color=DodgerBlue>__wl355@sussex.ac.uk__</font>
+  
 
 Here are some further details about my experience:
   
@@ -58,23 +57,23 @@ My research interest includes neural machine translation and computer vision. I 
 # 💡 Certification  
 - Type-A Certification, of the National Judicial Examination of China  
 
-# 💬 Foreign languages
+# 💬 Languages
 - *English*: C4T-646, C6T-565, IELTS-6.5 (7.5 / 7 / 6 / 5.5)
 - *Japanese*: passed JLPT-N2, and finished N1 learning.
 - *German*: finished CEFR-B1 learning.
   
-# 🗜️ Programming skills
-- *Programming language*: Python (mainly), Java, C/C++, Javascript
+# 🗜️ Programming
+- *Language*: Python (mainly), Java, C/C++, Javascript
 - *Software development*: Vue+Springboot (website), cloud-development (mini-program)
 - *Legal empirical research*, with: 
   * *Machine learning*: Linear Regression, Decision Tree & Random Forest, SVM, Clustering methods, etc. 
-  * *Statistical techniques*: Hierarchical evaluation model, T-means test, Structural Equation Model, ARIMA, etc.
+  * *Statistical techniques*: Hierarchical evaluation model, T-means test, Structural Equation Model(SEM), ARIMA, etc.
 - *Legal judgement prediction*:
    * *Platforms: Kaggle notebook*, etc.
-   * *PLMs & LLMs* : tried RoBERTa for LoRA in text classification tasks, with the second prize
+   * *PLMs & LLMs* : tried RoBERTa for LoRA in text classification tasks, winning a second prize
   
-# 📝 Publications 
-- The Application of Few Shot Learing in Natural Language Processing in Legal Fields (in Chinese), in T+Z Technology Review in 2024, and is also reprinted in the ‌compilation‌ "Next generation innovative technology", pp. 135-143.
+# 📝 Publications
+- The Application of Few Shot Learing in Natural Language Processing in Legal Fields (in Chinese), in "T+Z Technology Review" of Tsinghua University in 2024, and is also reprinted in the ‌compilation‌ "Next generation innovative technology", pp. 135-143.
 - How Artificial Intelligence has influenced Students’ Learning: A Survey Exploring Attitudes towards Tool Usage, in Proceeding of the 2024 International Conference on Artificial Intelligence and Future Education, pp. 260-267.
 - User Analysis Based on Genetic Algorithm Modified BP Neural Network, in Proceedings of the 6th International Conference on Information Technologies and Electrical Engineering in 2023, pp. 351-357.
   
@@ -106,7 +105,7 @@ My research interest includes neural machine translation and computer vision. I 
 - 2022.07~08., AI Intern, in the E-commerce and Business Bigdata Technology Engineering Laboratory of Zhejiang Gongshang University, Hangzhou.
 - 2021.08., Data compliance Intern, Capital Equity Legal Group, Hangzhou.
   
-# 🎵 Hobbies
+# 🎶 Hobbies
 I enjoy myself learning about cultures and musical instruments. 
 
 
