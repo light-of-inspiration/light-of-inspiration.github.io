@@ -21,26 +21,32 @@ Hi, I am an __AI MSc student__ 👨🏻‍💻 from the University of Sussex, se
 
 
 For prepartions, I've gained those related experience preliminarily:  
-  
-💻 __For AI in Law__:
-* Programming with proficient Python 
-* Legal software development & management
-* Applying large language models (LLMs) in the Legal Q&A research
 
-⚖️ __For Law in AI__:
-* Skills for legal empirical research, with Machine Learing techniques
-* Foregin language acquisition (English, Japanese, German), suitable for advanced comparative study
-* Legal doctrine based research, especially in the prespective of technological essence
+> 💻 __For AI in Law__:
+> * Programming with proficient Python
+> * Legal software development & management
+> * Applying large language models (LLMs) in the Legal Q&A research
+>
+> ⚖️ __For Law in AI__:
+> * Skills for legal empirical research, with Machine Learing techniques
+> * Foregin language acquisition (English, Japanese, German), suitable for advanced comparative study
+> * Legal doctrine based research, especially in the prespective of technological essence
 
-Here are more details about my experience. 
+---
 
-Becoming a interdisciplinary researcher of AI & Law has always been __my ideal__.
+‼️ Becoming a interdisciplinary researcher of AI & Law has always been __my ideal__.
 Thus, I extremely hope to be given the chance, to continue my studies as a PhD student.
 
 Please feel free to __contact me__ at anytime, to discuss about any further possibilities for Ph.D. application. 
 I'm eagerly looking forward to discussing with you, about all those issues related to AI & Law 😃
 
-📧 wl355@sussex.ac.uk
+📧 [wl355@sussex.ac.uk]
+
+  
+Here are some further details about my experience √
+
+---
+
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
