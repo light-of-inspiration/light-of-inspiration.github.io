@@ -58,12 +58,12 @@ My research interest includes neural machine translation and computer vision. I 
 # 💡 Certification  
 - Type-A Certification, of the National Judicial Examination of China  
 
-# 💬 Language
+# 💬 Foreign languages
 - *English*: C4T-646, C6T-565, IELTS-6.5 (7.5 / 7 / 6 / 5.5)
 - *Japanese*: passed JLPT-N2, and finished N1 learning.
 - *German*: finished CEFR-B1 learning.
   
-# 🗜️ Programming
+# 🗜️ Programming skills
 - *Programming language*: Python (mainly), Java, C/C++, Javascript
 - *Software development*: Vue+Springboot (website), cloud-development (mini-program)
 - *Legal empirical research*, with: 
