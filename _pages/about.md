@@ -22,24 +22,24 @@ Hi, I am an __AI MSc student__ 👨🏻‍💻 from University of Sussex, seekin
 I've gained those skills for primary prepartion:  
 
 > 💻 __For AI in Law__:
-> * Programming with proficient `Python`
+> * Programming with proficient Python
 > * Legal software development
 > * Handling english engineering articles
 > * Applying large language models (LLMs) in Legal Question Answering
 >
 > ⚖️ __For Law in AI__:
-> * Empirical research skills for law, with Machine Learing
-> * Foregin language acquisition (English, Japanese, German), for advanced comparative study
-> * Legal dogmatics research, in the prespective of technical essence
+> * Legal empirical research skills, with Machine Learing
+> * Foregin language acquisition (English, Japanese, German), for comparative study
+> * Legal dogmatics research, in prespective of "technical essence"
 
 
 ‼️ Becoming a interdisciplinary researcher for AI & Law has always been my ideal.
 Thus, I extremely hope to be given the chance, to continue my studies, as a Ph.D. student.
 
 Please feel free to __contact me__ at anytime, to discuss about any related possibilities.   
-I'm __eagerly__ looking forward to discussing with you about all those issues related to AI & Law 😃
+I'm eagerly looking forward to discussing with you about all those issues related to AI & Law 😃
 
-📧  <font color=DodgerBlue>__wl355@sussex.ac.uk__</font>  
+📧 <font color=DodgerBlue> wl355@sussex.ac.uk </font>  
   
   
 Here are some further details about my experience:
