@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am an __AI MSc student__ 👨🏻‍💻 from University of Sussex, seeking for a chance of __becoming a Ph.D. student__, to make further investigations in __AI & Law__.  
 
-I've gained those skills for primary prepartion:  
+I've gained those primary skills for prepartion:  
 
 > 💻 __For AI in Law__:
 > * Programming with proficient Python
