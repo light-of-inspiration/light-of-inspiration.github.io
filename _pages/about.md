@@ -40,9 +40,9 @@ Thus, I extremely hope to be given the chance, to continue my studies as a Ph.D.
 
 Please feel free to __contact me__ at anytime, to discuss about any related possibilities. 
 I'm __eagerly__ looking forward to discussing with you about all those issues related to AI & Law 😃
-<font color=DodgerBlue>
-📧  wl355@sussex.ac.uk 
-<font>
+
+📧  <font color=DodgerBlue>wl355@sussex.ac.uk<font>
+
 
 Here are some further details about my experience:
   
