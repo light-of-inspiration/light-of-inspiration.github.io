@@ -69,14 +69,14 @@ Here are some further details about me:
    * *PLMs & LLMs* : tried RoBERTa for LoRA in text classification tasks, winning a second prize in iFlytek AI Developers Contest.
   
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/FSL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 - *The Application of Few Shot Learing in Natural Language Processing in Legal Fields* (in Chinese), in "T+Z Technology Review" of Tsinghua University in 2024, and is also reprinted in the ‌compilation‌ "Next generation innovative technology", pp. 135-143.
 - *How Artificial Intelligence has influenced Students’ Learning: A Survey Exploring Attitudes towards Tool Usage*, in Proceeding of the 2024 International Conference on Artificial Intelligence and Future Education (EI indexed), pp. 260-267.
 - *User Analysis Based on Genetic Algorithm Modified BP Neural Network*, in Proceedings of the 6th International Conference on Information Technologies and Electrical Engineering in 2023 (EI indexed), pp. 351-357.
   
-# 🚀 Projects
+# 🚀 Main projects
 [1] __Research on the Criminal Law Regulations on Crimes Involving e-CNY of China__  
 *Funding applicant | the National College Student Innovation and Entrepreneurship Training Program*  
 This project utilized quantitative methods to conduct a quantitative analysis of latest crimes involving central bank digital currencies, and proposed preventive measures based on their criminological characteristics.
@@ -94,12 +94,11 @@ This plan aims to design an intelligent legal application that provides users wi
 - *First prize*, in the 3rd Legal Emperial Analysis Essay Competition for College Students, organized by Guangdong Law Society, 2024.
 - *Second prize*, in the 1st Legal Science and Technology Innovation Design Competition, organized by Tsinghua University, 2024.
 - *Second prize*, in the iFlytek AI Developer's Contest for text classification task, 2023.
-- *Second prize*, in the 9th College Students' Legal Professional Ability Competition (Essay category) of Zhejiang Province, 2022.
    
 # 🌱 Internships
 - 2023.03~04., Legal Intern, in the People's Procuratorate of Gongshu District, Hangzhou. 
 - 2022.07~08., AI Intern, in the E-commerce and Business Bigdata Technology Engineering Laboratory of Zhejiang Gongshang University, Hangzhou.
-- 2021.08., Data compliance Intern, Capital Equity Legal Group, Hangzhou.
+- 2021.08., Data Compliance Intern, the Capital Equity Legal Group (京衡律师事务所), Hangzhou.
   
 
 
@@ -123,9 +122,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎶 Hobbies
 I enjoy myself learning about cultures and musical instruments. 
-
-
 I plays piano, ukelele, erhu, guzheng(古筝), guqin(古琴), and konghou(箜篌). 
 Those hobbies are relaxing, and may also provide some inspirations for NLP study.
+
+- *Second prize*, in the 9th College Students' Legal Professional Ability Competition (Essay category) of Zhejiang Province, 2022.
 
 -->
