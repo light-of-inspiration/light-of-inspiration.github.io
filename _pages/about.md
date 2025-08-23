@@ -101,7 +101,11 @@ This plan aims to design an intelligent legal application that provides users wi
 - 2022.07~08., AI Intern, in the E-commerce and Business Bigdata Technology Engineering Laboratory of Zhejiang Gongshang University, Hangzhou.
 - 2021.08., Data Compliance Intern, the Capital Equity Legal Group (京衡律师事务所), Hangzhou.
   
-
+# 🎶 Hobbies
+I enjoy myself learning languages, calligraphy and musical instruments. 
+I can play piano, ukelele, guzheng(古筝), guqin(古琴), and konghou(箜篌), 
+and have won 2 first prizes in school's calligraphy contests, with slender-gold style(瘦金体).
+Those hobbies are relaxing, and those linguistic or musical notes may provide some inspirations for NLP study. 
 
 <!--
 
@@ -120,12 +124,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎶 Hobbies
-I enjoy myself learning about cultures and musical instruments. 
-I plays piano, ukelele, erhu, guzheng(古筝), guqin(古琴), and konghou(箜篌). 
-Those hobbies are relaxing, and may also provide some inspirations for NLP study.
-
 - *Second prize*, in the 9th College Students' Legal Professional Ability Competition (Essay category) of Zhejiang Province, 2022.
+
 
 -->
