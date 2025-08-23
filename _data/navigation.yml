@@ -22,7 +22,7 @@ main:
     url: "/#-publications"
 
   - title: "Projects"
-    url: "/#-projects"
+    url: "/#-main-projects"
 
   - title: "IP"
     url: "/#-intellectual-properties"
