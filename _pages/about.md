@@ -70,7 +70,7 @@ Here are some further details about me:
   
 # 📝 Publications
 <div style="text-align: center;">
-  <img src='images/FSL.png' alt="sym" width="50%">
+  <img src='images/FSL.png' alt="sym" width="70%">
 </div>
   
 - *The Application of Few Shot Learing in Natural Language Processing in Legal Fields* (in Chinese), in "T+Z Technology Review" of Tsinghua University in 2024, and is also reprinted in the ‌compilation‌ "Next generation innovative technology", pp. 135-143.
