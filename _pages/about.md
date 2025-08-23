@@ -69,6 +69,9 @@ Here are some further details about me:
    * *PLMs & LLMs* : tried RoBERTa for LoRA in text classification tasks, winning a second prize in iFlytek AI Developers Contest.
   
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 - *The Application of Few Shot Learing in Natural Language Processing in Legal Fields* (in Chinese), in "T+Z Technology Review" of Tsinghua University in 2024, and is also reprinted in the ‌compilation‌ "Next generation innovative technology", pp. 135-143.
 - *How Artificial Intelligence has influenced Students’ Learning: A Survey Exploring Attitudes towards Tool Usage*, in Proceeding of the 2024 International Conference on Artificial Intelligence and Future Education (EI indexed), pp. 260-267.
 - *User Analysis Based on Genetic Algorithm Modified BP Neural Network*, in Proceedings of the 6th International Conference on Information Technologies and Electrical Engineering in 2023 (EI indexed), pp. 351-357.
