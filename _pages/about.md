@@ -54,7 +54,7 @@ Here are some further details about me:
 - Type-A Certification, the National Judicial Examination of China  
 
 # 💬 Languages
-- *English*: C4T-646, C6T-565, IELTS-6.5 ( 7.5 / 7 / 6 / 5.5)
+- *English*: C4T-646, C6T-565, IELTS-6.5 ( 7.5 / 7 / 6 / 5.5 )
 - *Japanese*: passed JLPT-N2, and finished N1 learning.
 - *German*: finished CEFR-B1 learning.
   
