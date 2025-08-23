@@ -34,7 +34,7 @@ I've gained those primary skills for prepartion:
 
 
 ‼️ Becoming a interdisciplinary researcher for AI & Law has always been my ideal.  
-Thus, I extremely hope to be given the chance, to continue my studies, as a Ph.D. student.
+Thus, I extremely hope to be given the chance, to continue my study, as a Ph.D. student.
 
 Please feel free to __contact me__ at anytime, to discuss about any related possibilities.   
 I'm eagerly looking forward to discussing with you about all those issues related to AI & Law 😃
@@ -42,55 +42,49 @@ I'm eagerly looking forward to discussing with you about all those issues relate
 📧 <font color=DodgerBlue> wl355@sussex.ac.uk </font>  
   
   
-Here are some further details about my experience:
+Here are some further details about me:
   
-
-<!--
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
--->
-
+  
+  
 # 🎓 Educations
 - MSc student, Artificial Intelligence, University of Sussex.   
 - Bachelor, Law & Computer, Zhejiang Gongshang University.  
 
 # 💡 Certification  
-- Type-A Certification, of the National Judicial Examination of China  
+- Type-A Certification, the National Judicial Examination of China  
 
 # 💬 Languages
-- *English*: C4T-646, C6T-565, IELTS-6.5 (7.5 / 7 / 6 / 5.5)
+- *English*: C4T-646, C6T-565, IELTS-6.5 ( 7.5 / 7 / 6 / 5.5)
 - *Japanese*: passed JLPT-N2, and finished N1 learning.
 - *German*: finished CEFR-B1 learning.
   
-# 🗜️ Programming
+# 🛠️ Programming
 - *Language*: Python (mainly), Java, C/C++, Javascript
-- *Software development*: Vue+Springboot (website), cloud-development (mini-program)
+- *Software development*: Vue+Springboot (website), cloud-development (mini-program, Android)
 - *Legal empirical research*, with: 
   * *Machine learning*: Linear Regression, Decision Tree & Random Forest, SVM, Clustering methods, etc. 
-  * *Statistical techniques*: Hierarchical evaluation model, T-means test, Structural Equation Model(SEM), ARIMA, etc.
+  * *Statistical techniques*: TOPSIS, Moran-Index, SEM, ARIMA, Hierarchical evaluation model, etc.
 - *Legal judgement prediction*:
-   * *Platforms: Kaggle notebook*, etc.
-   * *PLMs & LLMs* : tried RoBERTa for LoRA in text classification tasks, winning a second prize in FLTK AI Developers Contest
+   * *Platforms*: Kaggle notebook, etc.
+   * *PLMs & LLMs* : tried RoBERTa for LoRA in text classification tasks, winning a second prize in FLTK AI Developers Contest.
   
 # 📝 Publications
-- The Application of Few Shot Learing in Natural Language Processing in Legal Fields (in Chinese), in "T+Z Technology Review" of Tsinghua University in 2024, and is also reprinted in the ‌compilation‌ "Next generation innovative technology", pp. 135-143.
-- How Artificial Intelligence has influenced Students’ Learning: A Survey Exploring Attitudes towards Tool Usage, in Proceeding of the 2024 International Conference on Artificial Intelligence and Future Education (EI indexed), pp. 260-267.
-- User Analysis Based on Genetic Algorithm Modified BP Neural Network, in Proceedings of the 6th International Conference on Information Technologies and Electrical Engineering in 2023 (EI indexed), pp. 351-357.
+- *The Application of Few Shot Learing in Natural Language Processing in Legal Fields* (in Chinese), in "T+Z Technology Review" of Tsinghua University in 2024, and is also reprinted in the ‌compilation‌ "Next generation innovative technology", pp. 135-143.
+- *How Artificial Intelligence has influenced Students’ Learning: A Survey Exploring Attitudes towards Tool Usage*, in Proceeding of the 2024 International Conference on Artificial Intelligence and Future Education (EI indexed), pp. 260-267.
+- *User Analysis Based on Genetic Algorithm Modified BP Neural Network*, in Proceedings of the 6th International Conference on Information Technologies and Electrical Engineering in 2023 (EI indexed), pp. 351-357.
   
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 🚀 Projects
+[1] __Research on the Criminal Law Regulations on Crimes Involving Central Bank Digital Currency of China__  
+*Funding applicant | sponsored by the National College Student Innovation and Entrepreneurship Training Program*  
+This project utilized quantitative methods to conduct a quantitative analysis of latest crimes involving central bank digital currencies, and proposed preventive measures based on their criminological characteristics.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[2]__Research on the Development of Criminal Compliance Management Software__  
+*Funding applicant | sponsored by the Provincial College Student Science and Technology Innovation Program*  
+This plan aims to design an intelligent legal application that provides users with convenient access to legal literature and answers to questions related to criminal compliance. The initial design proposal won an award in the legal technology innovation design competition of Tsinghua University, and the prototype software is in need of further improvement.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
--->
+# ©️ Intellectual property
+- Computer software copyright（2023SR1532378、2023SR1469675、2023SR1605640）, as the 1st completor
+- Utility model patent（2024228954325）, under examination
 
 # 🏅 Selected Awards
 - Honorable mention, in the Mathematical / Interdisciplinary Contest In Modeling (MCM/ICM), 2023.
@@ -104,9 +98,31 @@ My research interest includes neural machine translation and computer vision. I 
 - 2022.07~08., AI Intern, in the E-commerce and Business Bigdata Technology Engineering Laboratory of Zhejiang Gongshang University, Hangzhou.
 - 2021.08., Data compliance Intern, Capital Equity Legal Group, Hangzhou.
   
+
+
+<!--
+
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 # 🎶 Hobbies
 I enjoy myself learning about cultures and musical instruments. 
 
 
 I plays piano, ukelele, erhu, guzheng(古筝), guqin(古琴), and konghou(箜篌). 
 Those hobbies are relaxing, and may also provide some inspirations for NLP study.
+
+-->
