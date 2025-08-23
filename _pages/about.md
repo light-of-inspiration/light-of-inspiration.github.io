@@ -92,7 +92,7 @@ This plan aims to design an intelligent legal application that provides users wi
 
 # 🏅 Selected Awards
 - *Honorable mention*, in the Mathematical / Interdisciplinary Contest In Modeling (MCM/ICM), 2023.
-- *First prize*, in the 3rd Legal Emperial Analysis Essay Competition for College Students, organized by Guangdong Law Society, 2024.
+- *First prize*, in the 3rd Legal Empirical Analysis Essay Competition for College Students, organized by Guangdong Law Society, 2024.
 - *Second prize*, in the 1st Legal Science and Technology Innovation Design Competition, organized by Tsinghua University, 2024.
 - *Second prize*, in the iFlytek AI Developer's Contest for text classification task, 2023.
    
