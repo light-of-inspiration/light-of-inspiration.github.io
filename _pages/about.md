@@ -103,7 +103,7 @@ This plan aims to design an intelligent legal application that provides users wi
   
 # 🎶 Hobbies
 - I can play piano, ukelele, guzheng(古筝), guqin(古琴), and konghou(箜篌).
-- I also won 2 first prizes in school with the slender-gold calligraphy(瘦金体).
+- I also won 2 first prizes in school, with the slender-gold calligraphy(瘦金体).
 
 <!--
 
