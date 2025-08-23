@@ -75,14 +75,14 @@ Here are some further details about me:
   
 # 🚀 Projects
 [1] __Research on the Criminal Law Regulations on Crimes Involving e-CNY of China__  
-*Funding applicant | sponsored by the National College Student Innovation and Entrepreneurship Training Program*  
+*Funding applicant | the National College Student Innovation and Entrepreneurship Training Program*  
 This project utilized quantitative methods to conduct a quantitative analysis of latest crimes involving central bank digital currencies, and proposed preventive measures based on their criminological characteristics.
 
-[2]__Research on the Development of Criminal Compliance Management Software__  
-*Funding applicant | sponsored by the Provincial College Student Science and Technology Innovation Program*  
+[2] __Research on the Development of Criminal Compliance Management Software__  
+*Funding applicant | the Provincial College Student Science and Technology Innovation Program*  
 This plan aims to design an intelligent legal application that provides users with convenient access to legal literature and answers to questions related to criminal compliance. The initial design proposal won an award in the legal technology innovation design competition of Tsinghua University, and the prototype software is in need of further improvement.
 
-# ©️ Intellectual property
+# ©️ Intellectual properties
 - Computer software copyright（2023SR1532378、2023SR1469675、2023SR1605640）, as the 1st completor
 - Utility model patent（2024228954325）, under examination
 
