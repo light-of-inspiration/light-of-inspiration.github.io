@@ -34,7 +34,7 @@ I've gained those primary skills for prepartion:
 
 
 ‼️ Becoming a interdisciplinary researcher for AI & Law has always been my ideal.  
-Thus, I extremely hope to be given the chance, to continue my study, as a Ph.D. student.
+Thus, I extremely hope to be given the chance, to continue my study as a Ph.D. student.
 
 Please feel free to __contact me__ at anytime, to discuss about any related possibilities.   
 I'm eagerly looking forward to discussing with you about all those issues related to AI & Law 😃
@@ -74,7 +74,7 @@ Here are some further details about me:
 - *User Analysis Based on Genetic Algorithm Modified BP Neural Network*, in Proceedings of the 6th International Conference on Information Technologies and Electrical Engineering in 2023 (EI indexed), pp. 351-357.
   
 # 🚀 Projects
-[1] __Research on the Criminal Law Regulations on Crimes Involving Central Bank Digital Currency of China__  
+[1] __Research on the Criminal Law Regulations on Crimes Involving e-CNY of China__  
 *Funding applicant | sponsored by the National College Student Innovation and Entrepreneurship Training Program*  
 This project utilized quantitative methods to conduct a quantitative analysis of latest crimes involving central bank digital currencies, and proposed preventive measures based on their criminological characteristics.
 
