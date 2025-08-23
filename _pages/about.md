@@ -102,8 +102,8 @@ This plan aims to design an intelligent legal application that provides users wi
 - 2021.08., Data Compliance Intern, the Capital Equity Legal Group (京衡律师事务所), Hangzhou.
   
 # 🎶 Hobbies
-- I play piano, ukelele, guzheng(古筝), guqin(古琴), and konghou(箜篌).
-- I also won 2 first prizes in school, with the slender-gold calligraphy(瘦金体).
+- I can play piano, ukelele, guzheng(古筝), guqin(古琴), and konghou(箜篌).
+- I also won 2 first prizes in school with the slender-gold calligraphy(瘦金体).
 
 <!--
 
