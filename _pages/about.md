@@ -83,15 +83,14 @@ This project utilized quantitative methods to conduct a quantitative analysis of
 This plan aims to design an intelligent legal application that provides users with convenient access to legal literature and answers to questions related to criminal compliance. The initial design proposal won an award in the legal technology innovation design competition of Tsinghua University, and the prototype software is in need of further improvement.
 
 # ©️ Intellectual properties
-- Computer software copyright（2023SR1532378、2023SR1469675、2023SR1605640）, as the 1st completor
-- Utility model patent（2024228954325）, under examination
+- *Software copyright*（2023SR1532378, 2023SR1469675, 2023SR1605640）as the 1st completor
+- *Utility model patent*（2024228954325）under examination
 
 # 🏅 Selected Awards
-- Honorable mention, in the Mathematical / Interdisciplinary Contest In Modeling (MCM/ICM), 2023.
-- First prize, in the 3rd Legal Imperial Analysis Essay Competition for College Students, organized by Guangdong Law Society, 2024.
-- Second prize, in the 1st Legal Science and Technology Innovation Design Competition, organized by Tsinghua University, 2024.
-- Second prize, in the 9th College Students' Legal Professional Ability Competition (Essay category) of Zhejiang Province, 2022.
-(selected only a few)
+- *Honorable mention*, in the Mathematical / Interdisciplinary Contest In Modeling (MCM/ICM), 2023.
+- *First prize*, in the 3rd Legal Imperial Analysis Essay Competition for College Students, organized by Guangdong Law Society, 2024.
+- *Second prize*, in the 1st Legal Science and Technology Innovation Design Competition, organized by Tsinghua University, 2024.
+- *Second prize*, in the 9th College Students' Legal Professional Ability Competition (Essay category) of Zhejiang Province, 2022.
    
 # 🌱 Internships
 - 2023.03~04., Legal Intern, in the People's Procuratorate of Gongshu District, Hangzhou. 
