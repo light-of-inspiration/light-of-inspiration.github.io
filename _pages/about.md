@@ -29,14 +29,14 @@ I've gained those primary skills for prepartion:
 >
 > ⚖️ __For Law in AI__:
 > * Legal empirical research skills, with Machine Learing
-> * Foregin language acquisition (English, Japanese, German), for comparative study
-> * Legal dogmatics research, in prespective of "technical essence"
+> * Foreign language acquisition (English, Japanese, German), for comparative study
+> * Legal dogmatics research, in the perspective of "technical essence"
 
 
 ‼️ Becoming a interdisciplinary researcher for AI & Law has always been my ideal.  
 Thus, I extremely hope to be given the chance, to continue my study as a Ph.D. student.
 
-Please feel free to __contact me__ at anytime, to discuss about any related possibilities.   
+Please feel free to __contact me__ at anytime, to discuss about any further possibilities.   
 I'm eagerly looking forward to discussing with you about all those issues related to AI & Law 😃
 
 📧 <font color=DodgerBlue> wl355@sussex.ac.uk </font>  
@@ -66,7 +66,7 @@ Here are some further details about me:
   * *Statistical techniques*: TOPSIS, Moran-Index, SEM, ARIMA, Hierarchical evaluation model, etc.
 - *Legal judgement prediction*:
    * *Platforms*: Kaggle notebook, etc.
-   * *PLMs & LLMs* : tried RoBERTa for LoRA in text classification tasks, winning a second prize in FLTK AI Developers Contest.
+   * *PLMs & LLMs* : tried RoBERTa for LoRA in text classification tasks, winning a second prize in iFlytek AI Developers Contest.
   
 # 📝 Publications
 - *The Application of Few Shot Learing in Natural Language Processing in Legal Fields* (in Chinese), in "T+Z Technology Review" of Tsinghua University in 2024, and is also reprinted in the ‌compilation‌ "Next generation innovative technology", pp. 135-143.
@@ -88,9 +88,9 @@ This plan aims to design an intelligent legal application that provides users wi
 
 # 🏅 Selected Awards
 - *Honorable mention*, in the Mathematical / Interdisciplinary Contest In Modeling (MCM/ICM), 2023.
-- *First prize*, in the 3rd Legal Imperial Analysis Essay Competition for College Students, organized by Guangdong Law Society, 2024.
+- *First prize*, in the 3rd Legal Emperial Analysis Essay Competition for College Students, organized by Guangdong Law Society, 2024.
 - *Second prize*, in the 1st Legal Science and Technology Innovation Design Competition, organized by Tsinghua University, 2024.
-- *Second prize*, in the FLTK AI Developer's Contest for text classification task, 2023.
+- *Second prize*, in the iFlytek AI Developer's Contest for text classification task, 2023.
 - *Second prize*, in the 9th College Students' Legal Professional Ability Competition (Essay category) of Zhejiang Province, 2022.
    
 # 🌱 Internships
