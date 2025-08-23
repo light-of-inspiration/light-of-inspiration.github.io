@@ -12,8 +12,8 @@ main:
   - title: "Certification"
     url: "/#-certification"
 
-  - title: "Language"
-    url: "/#-language"
+  - title: "Languages"
+    url: "/#-languages"
 
   - title: "Programming"
     url: "/#-programming"
@@ -21,11 +21,11 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Hornors"
-    url: "/#-selected honors"
+  - title: "Selected awards"
+    url: "/#-selected-awards"
 
   - title: "Internships"
     url: "/#-internships"
 
-  - title: "Hobbys"
-    url: "/#-hobbys"
+  - title: "Hobbies"
+    url: "/#-hobbies"
