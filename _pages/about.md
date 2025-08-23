@@ -102,10 +102,10 @@ This plan aims to design an intelligent legal application that provides users wi
 - 2021.08., Data Compliance Intern, the Capital Equity Legal Group (京衡律师事务所), Hangzhou.
   
 # 🎶 Hobbies
-I enjoy myself learning languages, calligraphy and musical instruments. 
-I can play piano, ukelele, guzheng(古筝), guqin(古琴), and konghou(箜篌), 
-and have won 2 first prizes in school's calligraphy contests, with slender-gold style(瘦金体).
-Those hobbies are relaxing, and those linguistic or musical notes may provide some inspirations for NLP study. 
+- I enjoy myself learning languages, calligraphy and musical instruments. 
+- I can play piano, ukelele, guzheng(古筝), guqin(古琴), and konghou(箜篌), 
+- and have won 2 first prizes in school's calligraphy contests, with slender-gold style(瘦金体).
+- Those hobbies are relaxing, in which the linguistic / musical symbols may also provide inspirations for NLP study. 
 
 <!--
 
