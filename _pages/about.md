@@ -90,6 +90,7 @@ This plan aims to design an intelligent legal application that provides users wi
 - *Honorable mention*, in the Mathematical / Interdisciplinary Contest In Modeling (MCM/ICM), 2023.
 - *First prize*, in the 3rd Legal Imperial Analysis Essay Competition for College Students, organized by Guangdong Law Society, 2024.
 - *Second prize*, in the 1st Legal Science and Technology Innovation Design Competition, organized by Tsinghua University, 2024.
+- *Second prize*, in the FLTK AI Developer's Contest for text classification task, 2023.
 - *Second prize*, in the 9th College Students' Legal Professional Ability Competition (Essay category) of Zhejiang Province, 2022.
    
 # 🌱 Internships
