@@ -54,7 +54,7 @@ Here are some further details about me:
 - Type-A Certification, the National Judicial Examination of China  
 
 # 💬 Languages
-- *English*: C4T-646, C6T-565, IELTS-6.5 ( 7.5 / 7 / 6 / 5.5 )
+- *English*: C4T-646, C6T-565, Academic IELTS-6.5 ( 7.5 / 7 / 6 / 5.5 ) 
 - *Japanese*: passed JLPT-N2, and finished N1 learning.
 - *German*: finished CEFR-B1 learning.
   
@@ -84,7 +84,9 @@ This project utilized quantitative methods to conduct a quantitative analysis of
 
 [2] __Research on the Development of Criminal Compliance Management Software__  
 *Funding applicant | the Provincial College Student Science and Technology Innovation Program*  
-This plan aims to design an intelligent legal application that provides users with convenient access to legal literature and answers to questions related to criminal compliance. The initial design proposal won an award in the legal technology innovation design competition of Tsinghua University, and the prototype software is in need of further improvement.
+This plan aims to design an intelligent legal application that provides users with convenient access to legal literature and answers to questions related to criminal compliance. The initial design proposal won an award in the legal technology innovation design competition of Tsinghua University.
+In the prototype software, I have tried RAG and CoT to imporve the effect of Legal question answering.
+Now I am tring to improve it with Knowledge Graphs in my MSc presonal project.
 
 # ©️ Intellectual properties
 - *Software copyright*（2023SR1532378, 2023SR1469675, 2023SR1605640）as the 1st completor
