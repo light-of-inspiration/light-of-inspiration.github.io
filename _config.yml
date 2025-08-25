@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhaozhi LIN"
+title                    : "Weiyu LIN"
 description              : "AI MSc student"
 repository               : "light-of-inspiration/light-of-inspiration.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhaozhi LIN"
+  name             : "Weiyu LIN"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "UNIVERSITY OF SUSSEX"
   location         : "Hangzhou, China"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "light-of-inspiration"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0001-9191-5801"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
