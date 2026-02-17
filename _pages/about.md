@@ -99,9 +99,9 @@ Now I am tring to improve it with Knowledge Graphs in my MSc presonal project.
 - *Second prize*, in the iFlytek AI Developer's Contest for text classification task, 2023.
    
 # 🌱 Internships
-- 2023.03~04., Legal Intern, in the People's Procuratorate of Gongshu District, Hangzhou. 
-- 2022.07~08., AI Intern, in the E-commerce and Business Bigdata Technology Engineering Laboratory of Zhejiang Gongshang University, Hangzhou.
-- 2021.08., Data Compliance Intern, the Capital Equity Legal Group (京衡律师事务所), Hangzhou.
+- 03~04.2024, Legal Intern, in the People's Procuratorate of Gongshu District, Hangzhou. 
+- 07~08.2023, AI Intern, in the E-commerce and Business Bigdata Technology Engineering Laboratory of Zhejiang Gongshang University, Hangzhou.
+- 08.2021, Data Compliance Intern, the Capital Equity Legal Group (京衡律师事务所), Hangzhou.
   
 # 🎶 Hobbies
 - I can play piano, ukelele, guzheng(古筝), guqin(古琴), and konghou(箜篌).
