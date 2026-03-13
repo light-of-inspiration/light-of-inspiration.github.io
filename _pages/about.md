@@ -39,6 +39,7 @@ Thus, I extremely hope to be given the chance, to continue my study as a Ph.D. s
 Please feel free to __contact me__ at anytime, to discuss about any further possibilities.   
 I'm eagerly looking forward to discussing with you about all those issues related to AI & Law 😃
 
+📧 <font color=DodgerBlue> fountainofideas@qq.com (recommended) </font>  
 📧 <font color=DodgerBlue> wl355@sussex.ac.uk </font>  
   
   
@@ -47,14 +48,14 @@ Here are some further details about me:
   
   
 # 🎓 Educations
-- MSc student, Artificial Intelligence, University of Sussex.   
+- MSc with distinction, Artificial Intelligence, University of Sussex.   
 - Bachelor, Law & Computer, Zhejiang Gongshang University.  
 
 # 💡 Certification  
 - Type-A Certification, the National Judicial Examination of China  
 
 # 💬 Languages
-- *English*: C4T-646, C6T-565, Academic IELTS-6.5 ( 7.5 / 7 / 6 / 5.5 ) 
+- *English*: C4T-646, C6T-565, Academic IELTS-6.5 ( 7 / 6 / 6.5 / 7 ) 
 - *Japanese*: passed JLPT-N2, and finished N1 learning.
 - *German*: finished CEFR-B1 learning.
   
