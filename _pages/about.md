@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am an __AI MSc student__ 👨🏻‍💻 from University of Sussex, seeking for a chance of __becoming a Ph.D. student__, to make further investigations in __AI & Law__.  
+Hi, I am __LLM candidate in AI Law__ 👨🏻‍💻 CUHK, seeking for a chance of __becoming a PhD student__, to make further investigations in __AI & Law__.  
 
 I've gained those primary skills for prepartion:  
 
@@ -48,8 +48,9 @@ Here are some further details about me:
   
   
 # 🎓 Educations
-- MSc with distinction, Artificial Intelligence, University of Sussex.   
-- Bachelor, Law & Computer, Zhejiang Gongshang University.  
+- LLM candidate, AI Law, The Chinese University of Hong Kong.
+- MSc with distinction, Artificial Intelligence and Adpative Systems, University of Sussex.   
+- Bachelor, Law & Software Enginieering, Zhejiang Gongshang University.  
 
 # 💡 Certification  
 - Type-A Certification, the National Judicial Examination of China  
@@ -96,6 +97,7 @@ Now I am tring to improve it with Knowledge Graphs in my MSc presonal project.
 # 🏅 Selected Awards
 - *Honorable mention*, in the Mathematical / Interdisciplinary Contest In Modeling (MCM/ICM), 2023.
 - *First prize*, in the 3rd Legal Empirical Analysis Essay Competition for College Students, organized by Guangdong Law Society, 2024.
+- *Second prize*, in the LAIC Legal Big Data Essay Contest, organized by the China Judicial Big Data Research Institute, 2026.
 - *Second prize*, in the 1st Legal Science and Technology Innovation Design Competition, organized by Tsinghua University, 2024.
 - *Second prize*, in the iFlytek AI Developer's Contest for text classification task, 2023.
    
