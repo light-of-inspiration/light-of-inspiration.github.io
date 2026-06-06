@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am __LLM candidate in AI Law__ 👨🏻‍💻 CUHK, seeking for a chance of __becoming a PhD student__, to make further investigations in __AI & Law__.  
+Hi, I'm a __LLM candidate in AI Law__ ⚖ in CUHK, and has graduated as __MSc with distinction__ 👨🏻‍💻 in AI and Adaptive Systems from University of Sussex.
+Now I'm seeking for a chance of __becoming a PhD student__, to make further investigations in __AI & Law__.  
 
 I've gained those primary skills for prepartion:  
 
@@ -27,7 +28,7 @@ I've gained those primary skills for prepartion:
 > * Handling english engineering articles
 > * Applying large language models (LLMs) in Legal Question Answering
 >
-> ⚖️ __For Law in AI__:
+> 💡 __For Law in AI__:
 > * Legal empirical research skills, with Machine Learing
 > * Foreign language acquisition (English, Japanese, German), for comparative study
 > * Legal dogmatics research, in the perspective of "technical essence"
@@ -52,7 +53,7 @@ Here are some further details about me:
 - MSc with distinction, Artificial Intelligence and Adpative Systems, University of Sussex.   
 - Bachelor, Law & Software Enginieering, Zhejiang Gongshang University.  
 
-# 💡 Certification  
+# ✔ Certification  
 - Type-A Certification, the National Judicial Examination of China  
 
 # 💬 Languages
@@ -70,11 +71,12 @@ Here are some further details about me:
    * *Platforms*: Kaggle notebook, etc.
    * *PLMs & LLMs* : tried RoBERTa for LoRA in text classification tasks, winning a second prize in iFlytek AI Developers Contest.
   
-# 📝 Publications
+# 📝 Publications & Manuscripts
 <div style="text-align: center;">
   <img src='images/FSL.png' alt="sym" width="70%">
 </div>
-  
+
+- *A Similar Case Retrieval Method Based on Lawformer and Semantic Keyword Representation* , in Artificial Intelligence and Law (SCIE & SSCI indexed), with editor.
 - *The Application of Few Shot Learing in Natural Language Processing in Legal Fields* (in Chinese), in "T+Z Technology Review" of Tsinghua University in 2024, and is also reprinted in the ‌compilation‌ "Next generation innovative technology", pp. 135-143.
 - *How Artificial Intelligence has influenced Students’ Learning: A Survey Exploring Attitudes towards Tool Usage*, in Proceeding of the 2024 International Conference on Artificial Intelligence and Future Education (EI indexed), pp. 260-267.
 - *User Analysis Based on Genetic Algorithm Modified BP Neural Network*, in Proceedings of the 6th International Conference on Information Technologies and Electrical Engineering in 2023 (EI indexed), pp. 351-357.
