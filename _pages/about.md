@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm an __LLM candidate in AI Law__ ⚖ in CUHK, and also obtained __MSc with distinction in AI__ 🤖 in University of Sussex.  
-Now I'm seeking for a chance of __becoming a PhD student__, to make further investigations in __AI & Law__.  
+Hi, I'm an __LLM candidate in AI Law__ ⚖ in CUHK, and also obtained __MSc with distinction in AI__ 🤖, in University of Sussex.  
+Now I'm seeking for a chance of __becoming a PhD candidate__, to make further investigations in __AI & Law__.  
 
 I've gained those primary skills for prepartion:  
 
