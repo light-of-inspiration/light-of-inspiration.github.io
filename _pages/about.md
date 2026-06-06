@@ -93,7 +93,6 @@ The improvements are made with Semantic Keyword Representation (SKR) in my MSc p
 
 # ©️ Intellectual properties
 - *Software copyright*（2023SR1532378, 2023SR1469675, 2023SR1605640）as the 1st completor
-- *Utility model patent*（2024228954325）under examination
 
 # 🏅 Selected Awards
 - *Honorable mention*, in the Mathematical / Interdisciplinary Contest In Modeling (MCM/ICM), 2023.
@@ -112,6 +111,7 @@ The improvements are made with Semantic Keyword Representation (SKR) in my MSc p
 - I also won 2 first prizes in school, with the slender-gold calligraphy(瘦金体).
 
 <!--
+- *Utility model patent*（2024228954325）under examination
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
